@@ -1,0 +1,67 @@
+.text-2xl {
+  font: var(--h1);
+}
+
+.text-xl {
+  font: var(--h2);
+}
+
+.text-lg {
+  font: var(--h3);
+}
+
+.text-sm {
+  font: var(--text-sm);
+}
+
+.text-base {
+  font: var(--text);
+}
+
+.text-headline {
+  font: var(--headline);
+}
+
+.color-text-headline {
+  color: var(--text-headline);
+}
+.text-italic {
+  font: var(--text-italic);
+  color: var(--text-secondary);
+}
+
+.justify-center {
+  text-align: center;
+}
+
+.text-primary {
+  color: var(--text-primary);
+}
+
+.text-secondary {
+  color: var(--text-secondary);
+}
+
+.text-tertiary {
+  color: var(--text-tertiary);
+}
+
+.accent-blue {
+  color: var(--accent-blue);
+}
+
+.accent-orange {
+  color: var(--accent-orange);
+}
+
+.accent-pink {
+  color: var(--accent-pink);
+}
+
+.accent-purple {
+  color: var(--accent-purple);
+}
+
+.gap-40 {
+  gap: 40px;
+}
